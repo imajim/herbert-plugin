@@ -8,7 +8,7 @@
   "config": {
     "preferred-install": "dist"
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "MyPlugin\\": "app/"
