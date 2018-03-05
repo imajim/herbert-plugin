@@ -2,13 +2,6 @@
   "name": "imajim/herbert-plugin",
   "description": "Herbert plugin",
   "license": "MIT",
-  "repositories": [{
-      "type": "composer",
-      "url": "https://repos.hatfield.me"
-  }],
-  "require": {
-    "imajim/framework": "dev"
-  },
   "config": {
     "preferred-install": "dist"
   },
